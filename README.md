@@ -12,3 +12,8 @@ OS : Windows 10
 IDE : Visual Studio 2017  
 Language : C/C++  
 Library : Win32 API  
+
+# Video
+- Playing Video (15sec)
+
+[![Video Label](http://img.youtube.com/vi/PGo5jDAxKu0/0.jpg)](https://youtu.be/PGo5jDAxKu0)
